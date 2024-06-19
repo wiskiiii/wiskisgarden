@@ -1,0 +1,11 @@
+/* italic text */
+.cm-em, em {
+    font-family: 'Bookerly', 'Inter Alternative Text', 'LXGW WenKai Screen Italic Alt';
+    font-style: italic;
+}
+
+/* bold text */
+.cm-strong, strong {
+    font-family: 'Bookerly', 'Source Han Sans CN';
+    font-weight: bold;
+}
